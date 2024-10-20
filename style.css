@@ -1,0 +1,21 @@
+.vertical-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.horizontal-flex {
+    display: flex;
+    flex-direction: row;
+}
+input {
+    height: 20px;
+    margin: 2px;
+    padding: 7px 3px 6px 3px;
+}
+button {
+    margin: 2px;
+    padding: 7px 9px 6px 9px;
+}
+.finish {
+    text-decoration: line-through;
+}
